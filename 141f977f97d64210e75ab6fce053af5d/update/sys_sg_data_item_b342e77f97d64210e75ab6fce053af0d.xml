@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Currency Converter my table</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 08:54:56</sys_created_on>
+        <sys_id>b342e77f97d64210e75ab6fce053af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Currency Converter my table</sys_name>
+        <sys_package display_value="Currency Converter" source="x_1425830_currency">141f977f97d64210e75ab6fce053af5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Currency Converter">141f977f97d64210e75ab6fce053af5d</sys_scope>
+        <sys_update_name>sys_sg_data_item_b342e77f97d64210e75ab6fce053af0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 08:54:56</sys_updated_on>
+        <table>x_1425830_currency_my_table</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b342e77f97d64210e75ab6fce053af0d"/>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>ae8ec6551b46c6d019254089bd4bcb71</owner>
+        <policy_name>AutoGen-scope-x_1425830_currency-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 09:38:38</sys_created_on>
+        <sys_id>bb4c2f33975a4210e75ab6fce053af5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Currency Converter" source="x_1425830_currency">141f977f97d64210e75ab6fce053af5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Currency Converter">141f977f97d64210e75ab6fce053af5d</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_bb4c2f33975a4210e75ab6fce053af5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 09:38:38</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="Currency Converter">141f977f97d64210e75ab6fce053af5d</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
