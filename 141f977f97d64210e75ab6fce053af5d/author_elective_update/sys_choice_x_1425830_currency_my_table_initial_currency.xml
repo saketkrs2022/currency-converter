@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="initial_currency" table="x_1425830_currency_my_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>initial_currency</element>
+            <name>x_1425830_currency_my_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-28 18:54:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>initial_currency</sys_name>
+            <sys_package display_value="Currency Converter" source="x_1425830_currency">141f977f97d64210e75ab6fce053af5d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Currency Converter">141f977f97d64210e75ab6fce053af5d</sys_scope>
+            <sys_update_name>sys_choice_x_1425830_currency_my_table_initial_currency</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-28 18:54:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>initial_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bahraini Dinar</label>
+            <language>en</language>
+            <name>x_1425830_currency_my_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-29 18:36:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-29 18:36:10</sys_updated_on>
+            <value>BHD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>initial_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Euro</label>
+            <language>en</language>
+            <name>x_1425830_currency_my_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-29 18:36:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-29 18:36:35</sys_updated_on>
+            <value>EUR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>initial_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indian Rupees</label>
+            <language>en</language>
+            <name>x_1425830_currency_my_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-28 19:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-29 18:35:38</sys_updated_on>
+            <value>INR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>initial_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kuwaiti Dinar</label>
+            <language>en</language>
+            <name>x_1425830_currency_my_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-29 18:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-29 18:35:21</sys_updated_on>
+            <value>KWD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>initial_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US Dollars</label>
+            <language>en</language>
+            <name>x_1425830_currency_my_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-28 19:30:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-29 18:35:32</sys_updated_on>
+            <value>USD</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

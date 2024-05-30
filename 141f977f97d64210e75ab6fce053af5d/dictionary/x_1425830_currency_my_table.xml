@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="4adfd733971a4210e75ab6fce053afe4" label="my table" max_length="40" name="x_1425830_currency_my_table" type="collection">
-        <element default="0.0" label="Amount" max_length="20" name="amount" type="float"/>
-        <element attributes="omit_sys_original=true" label="Final Currency" max_length="20" name="final_currency" type="choice">
-            <choice/>
+        <element default="0.0" label="Amount" mandatory="true" max_length="20" name="amount" type="float"/>
+        <element attributes="omit_sys_original=true" choice="1" display="true" label="Final Currency" mandatory="true" max_length="20" name="final_currency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bahraini Dinar" value="BHD"/>
+                <element inactive_on_update="false" label="Euro" value="EUR"/>
+                <element inactive_on_update="false" label="Indian Rupees" value="INR"/>
+                <element inactive_on_update="false" label="Kuwaiti Dinar" value="KWD"/>
+                <element inactive_on_update="false" label="US Dollars" value="USD"/>
+            </choice>
         </element>
-        <element attributes="omit_sys_original=true" label="Initial Currency " max_length="20" name="initial_currency" type="choice">
-            <choice/>
+        <element attributes="omit_sys_original=true" choice="1" label="Initial Currency " mandatory="true" max_length="20" name="initial_currency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bahraini Dinar" value="BHD"/>
+                <element inactive_on_update="false" label="Euro" value="EUR"/>
+                <element inactive_on_update="false" label="Indian Rupees" value="INR"/>
+                <element inactive_on_update="false" label="Kuwaiti Dinar" value="KWD"/>
+                <element inactive_on_update="false" label="US Dollars" value="USD"/>
+            </choice>
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <index name="index">
